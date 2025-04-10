@@ -1,4 +1,5 @@
 # 💫 About Me:
+hey guys its shub saini  here ;) 
 I design innovative tools that seamlessly integrate data processing with advanced cryptographic techniques.  <br>My workflow employs iterative hashing and secp256k1 exploration to generate and validate keys.  <br>I optimize performance through multi-threaded processing and precise algorithmic implementations.  <br>Continuous experimentation and rigorous testing drive my evolution as a developer.  <br>I redefine digital security by merging theoretical insight with practical coding excellence
 
 
@@ -33,6 +34,8 @@ I design innovative tools that seamlessly integrate data processing with advance
 ## Donations: 
 [-ALWAYS WELCOMED❤️‍🩹-]
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.blockchain.com/explorer/addresses/btc/bc1qwc24wqwu08x2cdnfzc40ezma4q5zsn37jxkkmt) 
+```
+bc1qwc24wqwu08x2cdnfzc40ezma4q5zsn37jxkkmt
+```
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/Shubsaini08) 
