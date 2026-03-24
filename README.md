@@ -1,4 +1,4 @@
-# 💥 Shub Saini | Crypto God & GPU Slayer 🚀
+# 💥 Shub Saini | Crypto Guy & CPU Slayer 🚀
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=280&section=header&text=Shub%20Saini%20%F0%9F%94%AE&fontSize=75&fontColor=ffffff&animation=fadeIn" alt="Neon Cyber Header" />
