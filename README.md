@@ -13,7 +13,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shubsaini08)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/m4ryWABM)
 
-![Profile views](https://komarev.com/ghpvc/?username=Shubsaini08&label=Profile%20views&color=1f6feb&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Shubsaini08?style=flat-square&color=1f6feb&label=Followers)
 ![Repos](https://img.shields.io/badge/Public%20Repos-5%20featured-1f6feb?style=flat-square)
 
@@ -189,8 +188,6 @@ Send a short spec or idea via [Telegram](https://t.me/Shainshub) or [email](mail
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubsaini08&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubsaini08&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubsaini08&theme=github-compact&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" width="100%" />
 
 </div>
 
